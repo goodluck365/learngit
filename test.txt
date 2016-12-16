@@ -5,3 +5,4 @@ Creating a new branch is quick & simple.
 create a new branch feature1.
 nice to meet you!
 you're welcome.
+more people work at the same time.
